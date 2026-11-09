@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d4f0bcba-22ec-4a06-bc09-9534640291a8" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.00000000004504" />
+      <entry key="MS500" value="1.0085508102029237" />
+      <entry key="S2" value="1.388721442818979" />
+      <entry key="S5" value="2.461863054409948" />
+      <entry key="S10" value="4.4576746820743125" />
+      <entry key="S30" value="10.032254229526147" />
+      <entry key="S60" value="13.668401281416015" />
+      <entry key="M2" value="16.36149379904915" />
+      <entry key="M5" value="18.4265262116474" />
+      <entry key="M10" value="19.6940521392578" />
+      <entry key="M15" value="21.21660201734819" />
+      <entry key="M30" value="27.79635463714131" />
+      <entry key="H1" value="41.621332859676286" />
+      <entry key="H2" value="58.83795019897606" />
+      <entry key="H4" value="73.21061859838443" />
+      <entry key="D1" value="89.96984431529137" />
+      <entry key="W1" value="93.40850842128985" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="2.0406334352585664E-264" />
+      <entry key="MS500" value="1.82823358662463E-53" />
+      <entry key="S2" value="7.513653217510198E-14" />
+      <entry key="S5" value="8.977164114283888E-6" />
+      <entry key="S10" value="0.005177810509291703" />
+      <entry key="S30" value="0.4106899696820581" />
+      <entry key="S60" value="1.268790836598877" />
+      <entry key="M2" value="2.246878947294583" />
+      <entry key="M5" value="3.296119678693022" />
+      <entry key="M10" value="5.530913230881463" />
+      <entry key="M15" value="9.421506145843333" />
+      <entry key="M30" value="24.236596492394092" />
+      <entry key="H1" value="50.9116103764612" />
+      <entry key="H2" value="81.92187555605742" />
+      <entry key="H4" value="107.11523438028219" />
+      <entry key="D1" value="136.08038747191628" />
+      <entry key="W1" value="141.9853581062038" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9726549474557913" />
+      <entry key="MS500" value="1.0029618792909296" />
+      <entry key="S2" value="1.386632510486452" />
+      <entry key="S5" value="2.4601533453484663" />
+      <entry key="S10" value="4.459274195283819" />
+      <entry key="S30" value="10.383328085233897" />
+      <entry key="S60" value="14.84036800951499" />
+      <entry key="M2" value="18.52019475121031" />
+      <entry key="M5" value="21.67149557653609" />
+      <entry key="M10" value="25.192391145123604" />
+      <entry key="M15" value="30.610526989187452" />
+      <entry key="M30" value="52.008206123512814" />
+      <entry key="H1" value="92.51013952578059" />
+      <entry key="H2" value="140.74217120496448" />
+      <entry key="H4" value="180.3144588807632" />
+      <entry key="D1" value="226.0478388826914" />
+      <entry key="W1" value="235.39351027984986" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3LrX7xXiN9Oslo4ySmjZmf3Jjy8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Hospital.executor": "Run",
+    "Application.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/home/mohamed_ayser/Downloads/Hospital Emergency Room Simulation/src/main/java/org/example/Main.java"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Hospital" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Hospital" />
+      <module name="Hospital_Emergency_Room_Simulation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="Hospital_Emergency_Room_Simulation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Hospital Emergency Room Simulation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Hospital Emergency Room Simulation" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Hospital" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-ac68fc9d2b05-intellij.indexing.shared.core-IU-263.7307.200" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4f0bcba-22ec-4a06-bc09-9534640291a8" name="Changes" comment="" />
+      <created>1794213001389</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1794213001389</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
