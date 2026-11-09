@@ -1,7 +1,5 @@
 package org.example;
 
-import java.sql.Timestamp;
-
 public class Semaphore {
     private int permits;
 
@@ -11,12 +9,11 @@ public class Semaphore {
         }
         this.permits = permits;
     }
-
     public synchronized void acquire() throws InterruptedException {
         while (permits == 0){
             wait();
         }
-        permits--;
+        permits--;     
     }
 
     public synchronized void release() {
